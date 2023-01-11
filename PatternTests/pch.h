@@ -8,7 +8,8 @@
 #define PCH_H
 
 // add headers that you want to pre-compile here
-#include "Simple.h"
 #include "ArraysHashing.h"
-
+#include <vector>
+#include <string>
+#include <algorithm>
 #endif //PCH_H

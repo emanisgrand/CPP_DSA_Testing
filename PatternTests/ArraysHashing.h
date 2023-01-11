@@ -7,11 +7,5 @@ class ContainsDuplicates
 {
 public:
     bool BruteForce(vector<int>& nums);
+    bool SortedSolution(vector<int>& nums);
 };
-
-/*Brute Force
-class Solution {
-public:
-    bool containsDuplicate(vector<int>& nums) {
-    }
-};*/
