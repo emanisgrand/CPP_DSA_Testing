@@ -9,6 +9,8 @@
 
 // add headers that you want to pre-compile here
 #include "ArraysHashing.h"
+#include "..\DSA_Console\Risotto.h"
+
 #include <vector>
 #include <string>
 #include <algorithm>
